@@ -3,7 +3,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import random
 
-BOT_TOKEN = "8579588193:AAGcrsdeeoNQHldQs545J4VQQboMceYcIJ4"
+BOT_TOKEN = ""
 
 CAT_API_URL = "https://api.thecatapi.com/v1/images/search"
 
